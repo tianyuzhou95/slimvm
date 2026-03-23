@@ -1,0 +1,10 @@
+*.o
+*.cmd
+*.symvers
+*.order
+*.mod
+*.ko
+*.mod.c
+test.sh
+.vscode/
+CLAUDE.md
